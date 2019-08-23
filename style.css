@@ -15,9 +15,10 @@ h1 {
   width:50%;
 }
 
-nav {
+nav a {
   padding:10px;
   text-align:center;
+  background-color: purple;
 }
 
 /*nav a {*/
