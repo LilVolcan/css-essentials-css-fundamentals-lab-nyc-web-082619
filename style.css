@@ -20,6 +20,6 @@ nav {
   text-align:center;
 }
 
-nav ~ href {
+nav ~ a href {
   background-color: gray;
 }
