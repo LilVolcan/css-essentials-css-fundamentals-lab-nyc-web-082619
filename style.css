@@ -39,13 +39,11 @@ figcaption {
 #details div {
   display:block;
   float: left;
-  /*background: blue;*/
+  background: blue;
   
 }
 
-#details {
-  background-color: blue;
-}
+
 
 
 
